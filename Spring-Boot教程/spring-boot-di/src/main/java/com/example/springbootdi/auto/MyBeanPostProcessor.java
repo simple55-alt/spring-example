@@ -20,7 +20,7 @@ public class MyBeanPostProcessor implements BeanPostProcessor {
 
         if (beanName.equals("calculateService")) {
             if (bean instanceof CalculateService) {
-                System.out.println("BeanPostProcessor  post");
+                System.out.println("==========MyBeanPostProcessor    postProcessBeforeInitialization=============");
                 CalculateService bean1 = (CalculateService) bean;
                 bean1.setDesc("MyBeanPostProcessor 设置的属性");
             }
@@ -35,10 +35,9 @@ public class MyBeanPostProcessor implements BeanPostProcessor {
 
         if (beanName.equals("calculateService")) {
             if (bean instanceof CalculateService) {
-                System.out.println("BeanPostProcessor  after ");
+                System.out.println("==========MyBeanPostProcessor    postProcessAfterInitialization=============");
             }
         }
-
         return bean;
     }
 }

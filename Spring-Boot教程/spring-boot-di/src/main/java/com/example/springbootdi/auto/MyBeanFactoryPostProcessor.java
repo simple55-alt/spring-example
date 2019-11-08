@@ -1,5 +1,8 @@
 package com.example.springbootdi.auto;
 
+import com.example.springbootdi.component.NoRegisterService;
+import com.google.common.collect.LinkedHashMultimap;
+import com.google.common.collect.Multimap;
 import org.springframework.beans.*;
 import org.springframework.beans.factory.config.*;
 import org.springframework.beans.factory.support.AbstractBeanDefinition;
@@ -11,7 +14,9 @@ import org.springframework.core.PriorityOrdered;
 import org.springframework.core.env.*;
 import org.springframework.util.StringValueResolver;
 
-import java.util.HashMap;
+import java.util.Collection;
+import java.util.Map;
+import java.util.concurrent.ConcurrentHashMap;
 
 
 /**
@@ -31,6 +36,22 @@ public class MyBeanFactoryPostProcessor implements EnvironmentAware, PriorityOrd
     private final String proName = "AnthonyPropertySources";
 
 
+    private final Map<String, Object> map = new ConcurrentHashMap<>();
+
+
+    public Map<String, Object> getMap() {
+        return map;
+    }
+
+    private static final Multimap<Integer, String> NAMESPACE_NAMES = LinkedHashMultimap.create();
+
+
+    public static boolean addNamespaces(Collection<String> namespaces, int order) {
+
+        return NAMESPACE_NAMES.putAll(order,namespaces);
+    }
+
+
     /**
      * Modify the application context's internal bean factory after its standard
      * initialization. All bean definitions will have been loaded, but no beans
@@ -40,10 +61,29 @@ public class MyBeanFactoryPostProcessor implements EnvironmentAware, PriorityOrd
     @Override
     public void postProcessBeanFactory(ConfigurableListableBeanFactory beanFactory) throws BeansException {
 
+        Object bean = beanFactory.getBean("noRegisterService");
+
+        if (bean instanceof NoRegisterService) {
+            NoRegisterService noRegisterService = (NoRegisterService) bean;
+            noRegisterService.setValue("hhhhhhhhhhhhhhh");
+        }
+
+
+        System.out.println("==========PropertySourcesProcessor    postProcessBeanFactory=============");
+
+        Collection<String> strings = NAMESPACE_NAMES.get(Ordered.LOWEST_PRECEDENCE);
+
+        // namespace 输出
+        strings.forEach(e->{
+//            System.out.println("namespace : "+e);
+        });
+
+        // 获取pro
         getPro(beanFactory);
 
         // 设置配置属性 , 可以直接设置 对象的属性  , 不依靠spring
         setPro(beanFactory);
+
 
         // 初始化 bean , 用存在的source 初始化对象
         initWithHivingSource();
@@ -123,8 +163,9 @@ public class MyBeanFactoryPostProcessor implements EnvironmentAware, PriorityOrd
          */
         // name 是这个 map的名字 ---- , key 是这个map的 属性 , 跟name 么联系 ,
         // 比如 test.key=key  就是这么用 , 不需要加 proName.test.key=key
-        HashMap<String, Object> map = new HashMap<>();
+
         MapPropertySource propertySource = new MapPropertySource(proName,map);
+
         map.put("test.value", "我比你application.properties优先级高");
         map.put("test.key", "key");
 
@@ -137,6 +178,8 @@ public class MyBeanFactoryPostProcessor implements EnvironmentAware, PriorityOrd
         // 设置环境 , she置在第一位
         environment.getPropertySources().addFirst(propertySource);
     }
+
+
 
 
 
@@ -225,7 +268,7 @@ public class MyBeanFactoryPostProcessor implements EnvironmentAware, PriorityOrd
      */
     @Override
     public void setEnvironment(Environment environment) {
-        System.out.println("==========获取环境==============");
+        System.out.println("==========PropertySourcesProcessor    setEnvironment=============");
 
         if (environment instanceof ConfigurableEnvironment) {
             this.environment = (ConfigurableEnvironment) environment;

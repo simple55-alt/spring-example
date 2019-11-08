@@ -1,5 +1,8 @@
 # Auto Configure
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-com.example.springbootdi.auto.EnableAutoMyBeanPostProcessor
-
+com.example.springbootdi.annotation.EnableAutoMyBeanPostProcessor
+org.springframework.context.ApplicationContextInitializer=\
+com.example.springbootdi.boot.ApolloApplicationContextInitializer
+org.springframework.boot.env.EnvironmentPostProcessor=\
+com.example.springbootdi.boot.ApolloApplicationContextInitializer
 

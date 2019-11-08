@@ -1,23 +1,18 @@
 package com.example.springwebflux.web;
 
 import org.springframework.context.annotation.Bean;
-import org.springframework.context.annotation.Configuration;
-import org.springframework.web.reactive.function.BodyInserters;
-import org.springframework.web.reactive.function.server.RouterFunction;
-import org.springframework.web.reactive.function.server.ServerResponse;
+
 
 import java.util.Arrays;
 
-import static org.springframework.web.reactive.function.server.RequestPredicates.GET;
-import static org.springframework.web.reactive.function.server.RouterFunctions.route;
-import static org.springframework.web.reactive.function.server.ServerResponse.ok;
+
 
 /**
  * 全局router
  */
-@Configuration
+//@Configuration
 public class DemoRouterConfig {
-    @Bean
+   /* @Bean
     public RouterFunction<ServerResponse> routes() {
         return route(GET("/"), request -> ok()
                 .body(
@@ -30,5 +25,5 @@ public class DemoRouterConfig {
                         )
                 )
         );
-    }
+    }*/
 }

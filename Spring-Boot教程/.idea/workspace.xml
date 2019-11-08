@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="863de24b-697e-4900-8f79-1c595d4cccfc" name="Default Changelist" comment="" />
+    <list default="true" id="863de24b-697e-4900-8f79-1c595d4cccfc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_27_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_27_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_27_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_27_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_27_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_27_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_27_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_27_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_27_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_x86_64_4_1_27_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_27_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_ipc_reactor_netty_0_7_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_reactor_netty_2_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_webflux_2_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webflux_5_0_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_synchronoss_cloud_nio_multipart_parser_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_synchronoss_cloud_nio_stream_storage_1_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-di/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-di/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/SpringBootDiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/SpringBootDiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/auto/EnableAutoMyBeanPostProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/annotation/EnableAutoMyBeanPostProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/auto/MyBeanFactoryPostProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/auto/MyBeanFactoryPostProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/auto/MyBeanPostProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/auto/MyBeanPostProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-di/src/main/resources/META-INF/spring.factories" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-di/src/main/resources/META-INF/spring.factories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-di/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-di/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-webflux/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-webflux/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-webflux/src/main/java/com/example/springwebflux/SpringWebfluxApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-webflux/src/main/java/com/example/springwebflux/SpringWebfluxApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-webflux/src/main/java/com/example/springwebflux/web/DemoRouterConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-webflux/src/main/java/com/example/springwebflux/web/DemoRouterConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-webflux/src/main/java/com/example/springwebflux/web/MessageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-webflux/src/main/java/com/example/springwebflux/web/MessageController.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/spring-boot-di/target/" />
     <ignored path="$PROJECT_DIR$/spring-webflux/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,56 +47,103 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-webflux/src/main/java/com/example/springwebflux/web/FirstWebFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-webflux/src/main/java/com/example/springwebflux/web/MainTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-webflux/src/main/java/com/example/springwebflux/web/Message.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-webflux/src/main/java/com/example/springwebflux/web/MessageController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="7" selection-start-line="7" selection-start-column="2" selection-end-line="8" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-webflux/src/main/java/com/example/springwebflux/SpringWebfluxApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-webflux/src/main/java/com/example/springwebflux/web/DemoRouterConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="27" column="7" selection-start-line="14" selection-start-column="3" selection-end-line="27" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-webflux/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="28" column="47" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-webflux/src/main/java/com/example/springwebflux/controller/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/auto/MyBeanFactoryPostProcessor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="131" lean-forward="true" selection-start-line="131" selection-end-line="131" />
+            <state relative-caret-position="424">
+              <caret line="280" column="14" lean-forward="true" selection-start-line="280" selection-start-column="14" selection-end-line="280" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#5418#5419#0" expanded="true" />
-                <element signature="e#5471#5472#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/auto/EnableAutoMyBeanPostProcessor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#668#669#0" expanded="true" />
-                <element signature="e#723#724#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-di/src/main/resources/META-INF/spring.factories">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-di/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/SpringBootDiApplication.java">
+        <entry file="file://$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/auto/MyBeanPostProcessor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+            <state relative-caret-position="646">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -91,7 +169,17 @@
       <find>registerBeanDefinition</find>
       <find>beanDefinitionMap</find>
       <find>property</find>
+      <find>enableApolloConfig</find>
+      <find>element</find>
+      <find>MyWebAppInitializer</find>
+      <find>web</find>
+      <find>namespace</find>
+      <find>==========</find>
+      <find>EnableApolloConfig</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -99,11 +187,7 @@
         <option value="$PROJECT_DIR$/spring-boot-di/src/test/java/com/example/springbootdi/SpringBootDiApplicationTests.java" />
         <option value="$PROJECT_DIR$/spring-webflux/src/main/java/com/example/springwebflux/web/SampleController.java" />
         <option value="$PROJECT_DIR$/spring-webflux/src/main/java/com/example/springwebflux/web/Message.java" />
-        <option value="$PROJECT_DIR$/spring-webflux/src/main/java/com/example/springwebflux/SpringWebfluxApplication.java" />
-        <option value="$PROJECT_DIR$/spring-webflux/src/main/java/com/example/springwebflux/web/MessageController.java" />
-        <option value="$PROJECT_DIR$/spring-webflux/src/main/java/com/example/springwebflux/web/DemoRouterConfig.java" />
         <option value="$PROJECT_DIR$/spring-webflux/src/test/java/com/example/springwebflux/SpringWebfluxApplicationTests.java" />
-        <option value="$PROJECT_DIR$/spring-webflux/pom.xml" />
         <option value="$PROJECT_DIR$/spring-webflux/src/main/java/com/example/springwebflux/web/FirstWebFilter.java" />
         <option value="$PROJECT_DIR$/spring-webflux/src/main/java/com/example/springwebflux/web/MainTest.java" />
         <option value="$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/component/B.java" />
@@ -116,15 +200,39 @@
         <option value="$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/auto/CustomApplicationContext.java" />
         <option value="$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/MyApp.java" />
         <option value="$PROJECT_DIR$/spring-boot-di/src/main/resources/bootstrap.properties" />
-        <option value="$PROJECT_DIR$/spring-boot-di/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/auto/Test.java" />
-        <option value="$PROJECT_DIR$/spring-boot-di/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/spring-boot-di/src/main/resources/META-INF/spring.factories" />
-        <option value="$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/auto/EnableAutoMyBeanPostProcessor.java" />
-        <option value="$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/auto/MyBeanPostProcessor.java" />
         <option value="$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/component/CalculateService.java" />
-        <option value="$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/auto/MyBeanFactoryPostProcessor.java" />
+        <option value="$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/auto/EnableApolloConfig.java" />
+        <option value="$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/auto/ApolloConfigRegistrar.java" />
+        <option value="$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/annotation/EnableApolloConfig.java" />
+        <option value="$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/spi/ApolloConfigRegistrarHelper.java" />
+        <option value="$PROJECT_DIR$/spring-boot-di/src/main/resources/META-INF/services/com.example.springbootdi.spi.ApolloConfigRegistrarHelper" />
+        <option value="$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/config/MyCoonfig.java" />
+        <option value="$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/config/ApolloConfig.java" />
+        <option value="$PROJECT_DIR$/spring-boot-di/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/auto/EnableAutoMyBeanPostProcessor.java" />
+        <option value="$PROJECT_DIR$/spring-boot-di/src/main/resources/META-INF/spring.factories" />
+        <option value="$PROJECT_DIR$/spring-boot-di/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/boot/CompositePropertySourceImpl.java" />
+        <option value="$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/model/Config.java" />
+        <option value="$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/boot/ConfigPropertySource.java" />
+        <option value="$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/web/MyServlet.java" />
+        <option value="$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/web/MyWebAppInitializer.java" />
+        <option value="$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/web/WebApplicationInitializer.java" />
+        <option value="$PROJECT_DIR$/spring-boot-di/src/main/resources/META-INF/services/javax.servlet.ServletContainerInitializer" />
+        <option value="$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/annotation/EnableAutoMyBeanPostProcessor.java" />
+        <option value="$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/boot/ApolloApplicationContextInitializer.java" />
+        <option value="$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/annotation/ApolloConfigRegistrar.java" />
+        <option value="$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/component/NoRegisterService.java" />
+        <option value="$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/spi/DefaultApolloConfigRegistrarHelper.java" />
         <option value="$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/SpringBootDiApplication.java" />
+        <option value="$PROJECT_DIR$/spring-webflux/src/main/java/com/example/springwebflux/web/MessageController.java" />
+        <option value="$PROJECT_DIR$/spring-webflux/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-webflux/src/main/java/com/example/springwebflux/SpringWebfluxApplication.java" />
+        <option value="$PROJECT_DIR$/spring-webflux/src/main/java/com/example/springwebflux/web/DemoRouterConfig.java" />
+        <option value="$PROJECT_DIR$/spring-webflux/src/main/java/com/example/springwebflux/controller/Test.java" />
+        <option value="$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/auto/MyBeanFactoryPostProcessor.java" />
+        <option value="$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/auto/MyBeanPostProcessor.java" />
       </list>
     </option>
   </component>
@@ -145,18 +253,19 @@
     <option name="jreName" value="1.8.0_221" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1060" />
+    <option name="x" value="247" />
+    <option name="y" value="311" />
+    <option name="width" value="1558" />
+    <option name="height" value="885" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,197 +276,11 @@
             <path>
               <item name="Spring-Boot教程" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spring-Boot教程" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-di" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring-Boot教程" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Boot教程" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-di" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring-Boot教程" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Boot教程" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-di" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring-Boot教程" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Boot教程" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-di" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring-Boot教程" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Boot教程" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-di" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring-Boot教程" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Boot教程" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-di" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring-Boot教程" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Boot教程" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-di" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootdi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring-Boot教程" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Boot教程" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-di" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootdi" type="462c0819:PsiDirectoryNode" />
-              <item name="auto" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring-Boot教程" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Boot教程" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-di" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootdi" type="462c0819:PsiDirectoryNode" />
-              <item name="component" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring-Boot教程" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Boot教程" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-di" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring-Boot教程" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Boot教程" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-di" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring-Boot教程" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Boot教程" type="462c0819:PsiDirectoryNode" />
               <item name="spring-webflux" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring-Boot教程" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Boot教程" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-webflux" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring-Boot教程" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Boot教程" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-webflux" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring-Boot教程" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Boot教程" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-webflux" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring-Boot教程" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Boot教程" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-webflux" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring-Boot教程" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Boot教程" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-webflux" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring-Boot教程" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Boot教程" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-webflux" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="springwebflux" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring-Boot教程" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Boot教程" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-webflux" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="springwebflux" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring-Boot教程" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Boot教程" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-webflux" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Spring-Boot教程" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="Spring-Boot教程" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.boot:spring-boot:2.0.4.RELEASE" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="Spring-Boot教程" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.boot:spring-boot:2.0.4.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-boot-2.0.4.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring-Boot教程" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.boot:spring-boot:2.0.4.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-boot-2.0.4.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Spring-Boot教程" type="b2602c69:ProjectViewProjectNode" />
@@ -376,11 +299,48 @@
               <item name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.0.4.RELEASE" type="70bed36:NamedLibraryElementNode" />
               <item name="spring-boot-autoconfigure-2.0.4.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
               <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-Boot教程" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-context:5.0.8.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="Spring-Boot教程" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-context:5.0.8.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-context-5.0.8.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-Boot教程" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-context:5.0.8.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-context-5.0.8.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-Boot教程" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-context:5.0.8.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-context-5.0.8.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-Boot教程" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-context:5.0.8.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-context-5.0.8.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="context" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -390,16 +350,26 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573051701202" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573128625360" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8.0_221" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../dab学习/mybatis-helper-master" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="spring.boot" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.springbootdi.boot" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.springbootdi.spi" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\代码库\spring教程\Spring-Boot教程\spring-boot-di\src\main\resources\META-INF\services" />
+      <recent name="D:\代码库\spring教程\Spring-Boot教程\spring-boot-di\src\main\java\com\example\springbootdi" />
+      <recent name="D:\代码库\spring教程\Spring-Boot教程\spring-boot-di\src\main\resources\META-INF" />
       <recent name="D:\代码库\springboot学习\Spring-Boot教程\spring-boot-di\src\main\resources\META-INF" />
       <recent name="D:\代码库\springboot学习\Spring-Boot教程\spring-boot-di\src\main\resources" />
     </key>
@@ -416,13 +386,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringBootDiApplication">
-    <configuration name="FirstWebFilter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.springwebflux.web.FirstWebFilter" />
-      <module name="spring-webflux" />
+  <component name="RunManager" selected="Spring Boot.SpringWebfluxApplication">
+    <configuration name="ConfigPropertySource" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.springbootdi.boot.ConfigPropertySource" />
+      <module name="spring-boot-di" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.springwebflux.web.*" />
+          <option name="PATTERN" value="com.example.springbootdi.boot.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -430,12 +400,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.springwebflux.web.MainTest" />
-      <module name="spring-webflux" />
+    <configuration name="DefaultApolloConfigRegistrarHelper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.springbootdi.spi.DefaultApolloConfigRegistrarHelper" />
+      <module name="spring-boot-di" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.springwebflux.web.*" />
+          <option name="PATTERN" value="com.example.springbootdi.spi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyBeanFactoryPostProcessor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.springbootdi.auto.MyBeanFactoryPostProcessor" />
+      <module name="spring-boot-di" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.springbootdi.annotation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -452,22 +435,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpringWebfluxApplicationTests.getAllMessagesShouldBeOk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-webflux" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.springwebflux.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.example.springwebflux" />
-      <option name="MAIN_CLASS_NAME" value="com.example.springwebflux.SpringWebfluxApplicationTests" />
-      <option name="METHOD_NAME" value="getAllMessagesShouldBeOk" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -494,11 +461,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.MainTest" />
-        <item itemvalue="Application.FirstWebFilter" />
-        <item itemvalue="JUnit.SpringWebfluxApplicationTests.getAllMessagesShouldBeOk" />
         <item itemvalue="Spring Boot.SpringWebfluxApplication" />
+        <item itemvalue="Application.ConfigPropertySource" />
+        <item itemvalue="Application.DefaultApolloConfigRegistrarHelper" />
+        <item itemvalue="Application.MyBeanFactoryPostProcessor" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -522,6 +489,9 @@
       <workItem from="1573027667124" duration="16953000" />
       <workItem from="1573047152063" duration="1557000" />
       <workItem from="1573048757134" duration="2897000" />
+      <workItem from="1573094775799" duration="27589000" />
+      <workItem from="1573216561342" duration="604000" />
+      <workItem from="1573226023974" duration="786000" />
     </task>
     <servers />
   </component>
@@ -546,13 +516,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39298000" />
+    <option name="totallyTimeSpent" value="68277000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4954955" visible="true" weight="0.14544237" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4954955" visible="true" weight="0.27345845" />
       <window_info id="Designer" order="1" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -560,17 +529,17 @@
       <window_info id="Favorites" order="5" sideWeight="0.5045045" side_tool="true" weight="0.211126" />
       <window_info id="Web" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32914925" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.13668062" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932975" visible="true" weight="0.20223153" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3282123" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.37430167" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932975" weight="0.21787709" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.29149234" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32914925" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.51536316" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3282123" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" />
@@ -586,351 +555,480 @@
       <window_info anchor="right" id="Bean Validation" order="9" />
       <window_info anchor="right" id="ASMPlugin" order="10" />
       <window_info anchor="right" id="Structure" order="11" weight="0.25" />
-      <window_info anchor="right" x="0" y="0" width="337" height="648" id="Documentation" order="12" side_tool="true" weight="0.3297587" />
+      <window_info anchor="right" x="0" y="0" width="337" height="648" id="Documentation" order="12" side_tool="true" weight="0.51206434" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4954955" visible="true" weight="0.28619304" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.5045045" side_tool="true" weight="0.211126" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3282123" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.20810056" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932975" weight="0.19832402" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.51536316" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3282123" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3297587" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="ASMPlugin" order="10" />
+      <window_info anchor="right" id="Structure" order="11" weight="0.25" />
+      <window_info anchor="right" x="0" y="0" width="337" height="648" id="Documentation" order="12" side_tool="true" weight="0.6702413" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.4.RELEASE/spring-boot-2.0.4.RELEASE-sources.jar!/org/springframework/boot/web/servlet/support/SpringBootServletInitializer.java</url>
+          <line>86</line>
+          <properties class="org.springframework.boot.web.servlet.support.SpringBootServletInitializer" method="onStartup">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.8.RELEASE/spring-web-5.0.8.RELEASE-sources.jar!/org/springframework/web/WebApplicationInitializer.java</url>
+          <line>187</line>
+          <properties class="org.springframework.web.WebApplicationInitializer" method="onStartup">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>source.source.put()</expression-string>
+        <expression-string>((RequestFacade)((StandardMultipartHttpServletRequest)request).request).getServletPath()</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>org.springframework.web.multipart.support.StandardMultipartHttpServletRequest,org.apache.catalina.connector.RequestFacade</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>((RequestFacade)((StandardMultipartHttpServletRequest)request).request).request.getContextPath()</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>org.springframework.web.multipart.support.StandardMultipartHttpServletRequest,org.apache.catalina.connector.RequestFacade</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>beanFactory.getBean(&quot;noRegisterService&quot;)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>propertySource.getProperty(key)</expression-string>
+        <expression-string>postProcessBeanFactory:74, MyBeanFactoryPostProcessor</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>environment.getProperty(&quot;spring.aop.proxy-target-class&quot;)</expression-string>
+        <expression-string>beanFactory</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>environment.getProperty(&quot;test.capacity&quot;)</expression-string>
+        <expression-string>beanFactory.getBean(&quot;mbeanServer&quot;)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>iterator.hasNext()</expression-string>
+        <expression-string>importingClassMetadata.getAnnotatedMethods(&quot;EnableApolloConfig&quot;)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>iterator.next()</expression-string>
+        <expression-string>importingClassMetadata.getAnnotatedMethods(EnableApolloConfig.class.getName())</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>((ScannedGenericBeanDefinition) myComponent).beanClass</expression-string>
+        <expression-string>importingClassMetadata.getClassName()</expression-string>
         <language-id>JAVA</language-id>
-        <custom-info>org.springframework.context.annotation.ScannedGenericBeanDefinition</custom-info>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>((ScannedGenericBeanDefinition) myComponent).description</expression-string>
-        <language-id>JAVA</language-id>
-        <custom-info>org.springframework.context.annotation.ScannedGenericBeanDefinition</custom-info>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>((ScannedGenericBeanDefinition) myComponent).autowireMode</expression-string>
-        <language-id>JAVA</language-id>
-        <custom-info>org.springframework.context.annotation.ScannedGenericBeanDefinition</custom-info>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>((ScannedGenericBeanDefinition) myComponent).attributes</expression-string>
-        <language-id>JAVA</language-id>
-        <custom-info>org.springframework.context.annotation.ScannedGenericBeanDefinition</custom-info>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-web/2.0.4.RELEASE/spring-boot-starter-web-2.0.4.RELEASE.jar!/META-INF/spring.provides">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.8.RELEASE/spring-webmvc-5.0.8.RELEASE.jar!/META-INF/spring.schemas">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.8.RELEASE/spring-webmvc-5.0.8.RELEASE.jar!/META-INF/spring.handlers">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.8.RELEASE/spring-webmvc-5.0.8.RELEASE.jar!/META-INF/notice.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.8.RELEASE/spring-webmvc-5.0.8.RELEASE.jar!/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.4.RELEASE/spring-boot-autoconfigure-2.0.4.RELEASE.jar!/META-INF/spring.factories">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2090">
+          <caret line="110" column="79" lean-forward="true" selection-start-line="110" selection-start-column="79" selection-end-line="110" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.4.RELEASE/spring-boot-autoconfigure-2.0.4.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/ServerProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="58" column="13" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/web/WebApplicationInitializer.java" />
+    <entry file="file://$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/web/MyWebAppInitializer.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.4.RELEASE/spring-boot-autoconfigure-2.0.4.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/embedded/EmbeddedWebServerFactoryCustomizerAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="46" column="13" lean-forward="true" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.8.RELEASE/spring-context-5.0.8.RELEASE-sources.jar!/org/springframework/context/ApplicationContextInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="40" column="27" lean-forward="true" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.8.RELEASE/spring-context-5.0.8.RELEASE-sources.jar!/org/springframework/context/ApplicationContext.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
+        <state relative-caret-position="-95">
+          <caret line="68" column="16" lean-forward="true" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.8.RELEASE/spring-context-5.0.8.RELEASE-sources.jar!/org/springframework/context/annotation/AnnotationConfigApplicationContext.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.8.RELEASE/spring-context-5.0.8.RELEASE-sources.jar!/org/springframework/context/ApplicationContextAware.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="87" column="13" selection-start-line="87" selection-start-column="13" selection-end-line="87" selection-end-column="13" />
+        <state relative-caret-position="817">
+          <caret line="58" column="17" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-di/src/main/resources/META-INF/services/com.ctrip.framework.apollo.internals.Injector" />
-    <entry file="file://$PROJECT_DIR$/spring-boot-di/src/main/resources/META-INF/services/com.ctrip.framework.apollo.spring.spi.ApolloConfigRegistrarHelper" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.4.RELEASE/spring-boot-autoconfigure-2.0.4.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/condition/ConditionalOnProperty.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.8.RELEASE/spring-context-5.0.8.RELEASE-sources.jar!/org/springframework/context/annotation/ImportBeanDefinitionRegistrar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="122" column="13" selection-start-line="122" selection-start-column="13" selection-end-line="122" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.8.RELEASE/spring-context-5.0.8.RELEASE-sources.jar!/org/springframework/context/support/PostProcessorRegistrationDelegate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1569">
-          <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.8.RELEASE/spring-beans-5.0.8.RELEASE-sources.jar!/org/springframework/beans/factory/config/BeanPostProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="49" column="70" lean-forward="true" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/com/sun/org/apache/xalan/internal/xslt/EnvironmentCheck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="494" column="35" selection-start-line="494" selection-start-column="35" selection-end-line="494" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/component/MyComponent.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.8.RELEASE/spring-context-5.0.8.RELEASE-sources.jar!/org/springframework/context/annotation/AnnotationConfigRegistry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="25" column="34" lean-forward="true" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.4.RELEASE/spring-boot-2.0.4.RELEASE-sources.jar!/org/springframework/boot/web/servlet/context/ServletWebServerApplicationContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1119">
-          <caret line="90" column="13" selection-start-line="90" selection-start-column="13" selection-end-line="90" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.4.RELEASE/spring-boot-2.0.4.RELEASE-sources.jar!/org/springframework/boot/web/servlet/context/AnnotationConfigServletWebServerApplicationContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/MyApp.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.4.RELEASE/spring-boot-2.0.4.RELEASE-sources.jar!/org/springframework/boot/web/reactive/context/AnnotationConfigReactiveWebApplicationContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="183" selection-start-line="183" selection-end-line="183" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.8.RELEASE/spring-beans-5.0.8.RELEASE-sources.jar!/org/springframework/beans/factory/BeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1110">
-          <caret line="175" column="13" selection-start-line="175" selection-start-column="13" selection-end-line="175" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.8.RELEASE/spring-web-5.0.8.RELEASE-sources.jar!/org/springframework/web/context/support/AnnotationConfigWebApplicationContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-524">
-          <caret line="197" column="61" selection-start-line="197" selection-start-column="61" selection-end-line="197" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.8.RELEASE/spring-beans-5.0.8.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractBeanDefinition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="58" column="23" lean-forward="true" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.8.RELEASE/spring-beans-5.0.8.RELEASE-sources.jar!/org/springframework/beans/factory/FactoryBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="57" column="21" lean-forward="true" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.8.RELEASE/spring-context-5.0.8.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="1348" column="28" selection-start-line="1348" selection-start-column="28" selection-end-line="1348" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.8.RELEASE/spring-context-5.0.8.RELEASE-sources.jar!/org/springframework/context/support/AbstractRefreshableApplicationContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="241" column="28" selection-start-line="241" selection-start-column="28" selection-end-line="241" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.8.RELEASE/spring-context-5.0.8.RELEASE-sources.jar!/org/springframework/context/support/AbstractXmlApplicationContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="127" column="45" selection-start-line="127" selection-start-column="45" selection-end-line="127" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.8.RELEASE/spring-beans-5.0.8.RELEASE-sources.jar!/org/springframework/beans/factory/support/BeanDefinitionReaderUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="158" column="5" lean-forward="true" selection-start-line="158" selection-start-column="5" selection-end-line="158" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.8.RELEASE/spring-beans-5.0.8.RELEASE-sources.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="114" column="39" selection-start-line="114" selection-start-column="13" selection-end-line="114" selection-end-column="39" />
+        <state relative-caret-position="266">
+          <caret line="49" column="46" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.8.RELEASE/spring-beans-5.0.8.RELEASE-sources.jar!/org/springframework/beans/factory/InitializingBean.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.8.RELEASE/spring-context-5.0.8.RELEASE-sources.jar!/org/springframework/context/annotation/Import.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="23" column="76" lean-forward="true" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="76" />
+        <state relative-caret-position="551">
+          <caret line="53" column="20" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.8.RELEASE/spring-beans-5.0.8.RELEASE-sources.jar!/org/springframework/beans/factory/config/ConfigurableListableBeanFactory.java">
+    <entry file="file://$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/model/Config.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-99">
-          <caret line="80" column="20" selection-start-line="80" selection-start-column="20" selection-end-line="80" selection-end-column="20" />
+        <state relative-caret-position="209">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.8.RELEASE/spring-core-5.0.8.RELEASE-sources.jar!/org/springframework/util/StringValueResolver.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.8.RELEASE/spring-beans-5.0.8.RELEASE-sources.jar!/org/springframework/beans/factory/config/BeanFactoryPostProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        <state relative-caret-position="333">
+          <caret line="49" column="21" lean-forward="true" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.0.8.RELEASE/spring-test-5.0.8.RELEASE.jar!/org/springframework/test/web/servlet/setup/StandaloneMockMvcBuilder.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.4.RELEASE/spring-boot-autoconfigure-2.0.4.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4313">
-          <caret line="280" column="50" selection-start-line="280" selection-start-column="25" selection-end-line="280" selection-end-column="50" />
+        <state relative-caret-position="130">
+          <caret line="50" column="15" selection-start-line="50" selection-start-column="15" selection-end-line="50" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.8.RELEASE/spring-beans-5.0.8.RELEASE-sources.jar!/org/springframework/beans/factory/config/BeanDefinition.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.8.RELEASE/spring-context-5.0.8.RELEASE-sources.jar!/org/springframework/context/ConfigurableApplicationContext.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3401">
-          <caret line="196" column="11" selection-start-line="196" selection-start-column="11" selection-end-line="196" selection-end-column="11" />
+        <state relative-caret-position="233">
+          <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.4.RELEASE/spring-boot-2.0.4.RELEASE-sources.jar!/org/springframework/boot/context/properties/source/ConfigurationPropertySourcesPropertySource.java">
+    <entry file="file://$PROJECT_DIR$/spring-boot-di/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.8.RELEASE/spring-core-5.0.8.RELEASE-sources.jar!/org/springframework/core/env/MapPropertySource.java">
+    <entry file="file://$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/config/ApolloConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="31" column="30" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="30" />
+        <state relative-caret-position="228">
+          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
           <folding>
-            <element signature="e#1207#1208#0" expanded="true" />
-            <element signature="e#1242#1243#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-alibaba-nacos-discovery/2.1.0.RELEASE/spring-cloud-alibaba-nacos-discovery-2.1.0.RELEASE-sources.jar!/com/alibaba/cloud/nacos/NacosDiscoveryProperties.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.8.RELEASE/spring-context-5.0.8.RELEASE-sources.jar!/org/springframework/stereotype/Component.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4465">
-          <caret line="336" column="16" selection-start-line="336" selection-start-column="16" selection-end-line="336" selection-end-column="16" />
+        <state relative-caret-position="224">
+          <caret line="45" column="21" lean-forward="true" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.8.RELEASE/spring-beans-5.0.8.RELEASE-sources.jar!/org/springframework/beans/factory/support/BeanNameGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.8.RELEASE/spring-context-5.0.8.RELEASE-sources.jar!/org/springframework/context/annotation/AnnotationBeanNameGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1429">
+          <caret line="63" column="59" lean-forward="true" selection-start-line="63" selection-start-column="59" selection-end-line="63" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/boot/ConfigPropertySource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           <folding>
-            <element signature="e#8119#8120#0" expanded="true" />
-            <element signature="e#8154#8155#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-di/src/main/resources/my.properties">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.4.RELEASE/spring-boot-2.0.4.RELEASE-sources.jar!/org/springframework/boot/builder/SpringApplicationBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="17" />
+        <state relative-caret-position="295">
+          <caret line="136" column="41" selection-start-line="136" selection-start-column="41" selection-end-line="136" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-discovery/2.1.0.RELEASE/spring-cloud-starter-alibaba-nacos-discovery-2.1.0.RELEASE.pom">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.8.RELEASE/spring-core-5.0.8.RELEASE-sources.jar!/org/springframework/core/OrderComparator.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.4.RELEASE/spring-boot-2.0.4.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="141" selection-start-line="141" selection-end-line="141" />
+        <state relative-caret-position="291">
+          <caret line="153" column="16" lean-forward="true" selection-start-line="153" selection-start-column="16" selection-end-line="153" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/component/CalculateService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="46" column="13" lean-forward="true" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
           <folding>
-            <element signature="e#4776#4777#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-di/src/main/resources/bootstrap.properties">
+    <entry file="file://$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/spi/ApolloConfigRegistrarHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+        <state relative-caret-position="114">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-di/pom.xml">
+    <entry file="file://$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/annotation/EnableApolloConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="190">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.8.RELEASE/spring-core-5.0.8.RELEASE-sources.jar!/org/springframework/core/env/PropertySource.java">
+    <entry file="file://$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/annotation/ApolloConfigRegistrar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="58" column="36" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="36" />
+        <state relative-caret-position="386">
+          <caret line="28" column="3" lean-forward="true" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.4.RELEASE/spring-boot-autoconfigure-2.0.4.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/validation/ValidationAutoConfiguration.java">
+    <entry file="file://$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/component/NoRegisterService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/boot/ApolloApplicationContextInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="27" column="73" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/annotation/EnableAutoMyBeanPostProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
-          <caret line="62" column="48" selection-start-line="62" selection-start-column="48" selection-end-line="62" selection-end-column="48" />
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.4.RELEASE/spring-boot-2.0.4.RELEASE-sources.jar!/org/springframework/boot/context/properties/ConversionServiceDeducer.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.8.RELEASE/spring-beans-5.0.8.RELEASE-sources.jar!/org/springframework/beans/factory/Aware.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="56" column="25" selection-start-line="56" selection-start-column="25" selection-end-line="56" selection-end-column="25" />
+        <state relative-caret-position="418">
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.4.RELEASE/spring-boot-autoconfigure-2.0.4.RELEASE.jar!/META-INF/spring.factories">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.8.RELEASE/spring-context-5.0.8.RELEASE-sources.jar!/org/springframework/context/EnvironmentAware.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" selection-start-line="17" selection-end-line="19" selection-end-column="89" />
+        <state relative-caret-position="361">
+          <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-webflux/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.8.RELEASE/spring-core-5.0.8.RELEASE-sources.jar!/org/springframework/core/env/Environment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="70" column="45" selection-start-line="70" selection-end-line="70" selection-end-column="55" />
+        </state>
+      </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.4.RELEASE/spring-boot-autoconfigure-2.0.4.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/condition/ConditionalOnMissingBean.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.8.RELEASE/spring-core-5.0.8.RELEASE-sources.jar!/org/springframework/core/env/PropertyResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1157">
+          <caret line="29" column="33" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.8.RELEASE/spring-beans-5.0.8.RELEASE-sources.jar!/org/springframework/beans/factory/config/BeanPostProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
-          <caret line="32" column="6" lean-forward="true" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+          <caret line="42" column="22" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/auto/CustomApplicationContext.java">
+    <entry file="file://$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/spi/DefaultApolloConfigRegistrarHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        <state relative-caret-position="293">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/SpringBootDiApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="33" column="4" lean-forward="true" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-webflux/src/main/java/com/example/springwebflux/web/FirstWebFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-webflux/src/main/java/com/example/springwebflux/web/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-webflux/src/main/java/com/example/springwebflux/web/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-webflux/src/main/java/com/example/springwebflux/web/MessageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" selection-start-line="7" selection-start-column="2" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-webflux/src/main/java/com/example/springwebflux/SpringWebfluxApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-webflux/src/main/java/com/example/springwebflux/web/DemoRouterConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="7" selection-start-line="14" selection-start-column="3" selection-end-line="27" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-webflux/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="47" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-webflux/src/main/java/com/example/springwebflux/controller/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/auto/MyBeanFactoryPostProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="280" column="14" lean-forward="true" selection-start-line="280" selection-start-column="14" selection-end-line="280" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -939,77 +1037,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/auto/MyBeanPostProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="25" selection-start-line="25" selection-end-line="25" selection-end-column="69" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.4.RELEASE/spring-boot-autoconfigure-2.0.4.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="50" selection-start-line="50" selection-end-line="50" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/component/CalculateService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#365#366#0" expanded="true" />
-            <element signature="e#407#408#0" expanded="true" />
-            <element signature="e#438#439#0" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-di/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-di/src/main/resources/META-INF/spring.factories">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/auto/EnableAutoMyBeanPostProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#668#669#0" expanded="true" />
-            <element signature="e#723#724#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/auto/MyBeanFactoryPostProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="131" lean-forward="true" selection-start-line="131" selection-end-line="131" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#5418#5419#0" expanded="true" />
-            <element signature="e#5471#5472#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-di/src/main/java/com/example/springbootdi/SpringBootDiApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+        <state relative-caret-position="646">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
